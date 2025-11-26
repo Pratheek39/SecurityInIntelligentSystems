@@ -1,0 +1,2 @@
+# SecurityInIntelligentSystems
+Assignment
